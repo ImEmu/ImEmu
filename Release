@@ -1,0 +1,9 @@
+Origin: ImEmu's Repo
+Label: ImEmu's Repo
+Suite: stable
+Version: 1.0
+Codename: ImEmu
+Architectures: iphoneos-arm
+Components: main
+Description: ImEmu's Repo
+MD5sum: 07c3519cec7bbf5db03d420b5ced2ca2

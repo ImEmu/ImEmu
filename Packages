@@ -1,0 +1,14 @@
+Packages: Tenuis
+Version: 1.0-1.1
+Architecture: iphoneos-arm
+Maintainer: Emu <emmanuel.tesauro.2@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: Tenuis 2
+Size: 554528
+MD5sum: 6684fe4861cdb285542b7a492a39bbe3
+SHA1: 83102846ce834a7f0f67c2005d57389d09c7e52b
+SHA256: 2b6ead62bbc56c6c0a74a475111b28bba7149c502de23e75f975b83e14b0e385
+Section: Themes
+Description: Only Tenuis 2 test
+Author: Emu <emmanuel.tesauro.2@gmail.com>
+Name: Tenuis
